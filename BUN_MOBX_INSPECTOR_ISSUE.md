@@ -4,7 +4,7 @@
 Bun inspector (debug.bun.sh / VS Code) evaluates MobX observable property getter without correct receiver (this), causing `this[$mobx]` undefined
 
 ## Status
-**REPRODUCED**
+**REPRODUCED** - Issue filed: https://github.com/oven-sh/bun/issues/25517
 
 ## Reproduction Repository
 
